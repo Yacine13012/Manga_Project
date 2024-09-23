@@ -1,0 +1,12 @@
+2024-09-20 11:25:04.554899: Extracting data from https://myanimelist.p.rapidapi.com/anime/top/all
+2024-09-20 11:25:07.051235: Extracting data from https://myanimelist.p.rapidapi.com/anime/top/all successfully
+2024-09-20 11:25:07.079333: Data saved to json file: 2024_9_20_TopAnime.json
+2024-09-20 11:25:07.084212: Starting transformation
+2024-09-20 11:25:07.230015: Transformation finished successfuly
+2024-09-20 11:25:07.250367: Data saved into the csv file: 2024_9_20_TopAnime.csv
+2024-09-20 11:25:07.263264: Connecting to MySQL TopAnime database
+2024-09-20 11:25:07.276838: Connected to TopAnime database
+2024-09-20 11:25:07.314428: Creating table Top50 into TopAnime if doesn't exist
+2024-09-20 11:25:07.342862: Table Top50 created into TopAnime successfully
+2024-09-20 11:25:07.347416: Sending 50 rows to MySQL table 'Top50'.
+2024-09-20 11:25:07.370971: Successfully sent 50 rows to MySQL table 'Top50'.
