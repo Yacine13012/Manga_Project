@@ -1,0 +1,12 @@
+2024-09-24 10:46:17.878202: Connecting to MySQL Onepiece database
+2024-09-24 10:46:17.900850: Connected to Onepiece database
+2024-09-24 10:46:17.911061: Creating table IMDB into Onepiece if doesn't exist
+2024-09-24 10:46:17.918277: Table IMDB created into Onepiece successfully
+2024-09-24 10:46:17.933532: Extracting number total of episode and number of episod already in IMDB table Onepiece
+2024-09-24 10:46:36.949780: There are 1120 Onepiece episods at this time
+2024-09-24 10:46:36.949780: There is(are) 1119 episod(s) already in IMDB table
+2024-09-24 10:46:36.949780: There is(are) 1 episod(s) to extract
+2024-09-24 10:46:49.060871: Extracting episod 1120 from https://www.imdb.com//title/tt33394990
+2024-09-24 10:47:03.380150: Extracting 1 episod successfuly
+2024-09-24 10:47:03.393400: Sending 1 rows to MySQL table 'IMDB'.
+2024-09-24 10:47:03.407670: Successfully sent 1 rows to MySQL table 'IMDB'.
