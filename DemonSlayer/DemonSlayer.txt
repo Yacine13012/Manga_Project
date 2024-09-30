@@ -1,0 +1,136 @@
+2024-09-27 15:25:22.818866: Connecting to MySQL manga database
+2024-09-27 15:25:22.840533: Connected to manga database
+2024-09-27 15:25:22.846548: Creating table DemonSlayer into manga if doesn't exist
+2024-09-27 15:25:22.857534: Table DemonSlayer created into manga successfully
+2024-09-27 15:25:22.870898: Extracting number total of episode and number of episod already in DemonSlayer table
+2024-09-27 15:25:22.872820: There are 63 Demon Slayer episods
+2024-09-27 15:25:22.872820: There is(are) 0 episod(s) already in DemonSlayer table
+2024-09-27 15:25:22.872820: There is(are) 63 episod(s) to extract
+2024-09-27 15:25:22.896660: Extracting episod 1 from https://www.imdb.com/title/tt9828480/?ref_=ttep_ep1
+2024-09-27 15:25:37.694296: Extracted correctly the following episod: Saison: 1 | Episode: 1 | Title: Cruelty | Rate: 8.3
+2024-09-27 15:25:37.701213: Extracting episod 2 from https://www.imdb.com//title/tt9913012
+2024-09-27 15:25:51.191834: Extracted correctly the following episod: Saison: 1 | Episode: 2 | Title: Trainer Sakonji Urokodaki | Rate: 7.8
+2024-09-27 15:25:51.207532: Extracting episod 3 from https://www.imdb.com//title/tt9913014
+2024-09-27 15:26:09.315895: Extracted correctly the following episod: Saison: 1 | Episode: 3 | Title: Sabito and Makomo | Rate: 8.1
+2024-09-27 15:26:09.315895: Extracting episod 4 from https://www.imdb.com//title/tt9913018
+2024-09-27 15:26:22.753420: Extracted correctly the following episod: Saison: 1 | Episode: 4 | Title: Final Selection | Rate: 8.8
+2024-09-27 15:26:22.769923: Extracting episod 5 from https://www.imdb.com//title/tt9913022
+2024-09-27 15:26:36.321952: Extracted correctly the following episod: Saison: 1 | Episode: 5 | Title: My Own Steel | Rate: 8.0
+2024-09-27 15:26:36.321952: Extracting episod 6 from https://www.imdb.com//title/tt9913028
+2024-09-27 15:26:49.729253: Extracted correctly the following episod: Saison: 1 | Episode: 6 | Title: Swordsman Accompanying a Demon | Rate: 7.9
+2024-09-27 15:26:49.742310: Extracting episod 7 from https://www.imdb.com//title/tt9913030
+2024-09-27 15:27:02.758422: Extracted correctly the following episod: Saison: 1 | Episode: 7 | Title: Muzan Kibutsuji | Rate: 8.6
+2024-09-27 15:27:02.774158: Extracting episod 8 from https://www.imdb.com//title/tt9913032
+2024-09-27 15:27:16.065938: Extracted correctly the following episod: Saison: 1 | Episode: 8 | Title: The Smell of Enchanting Blood | Rate: 8.3
+2024-09-27 15:27:16.065938: Extracting episod 9 from https://www.imdb.com//title/tt9913036
+2024-09-27 15:27:28.805504: Extracted correctly the following episod: Saison: 1 | Episode: 9 | Title: Temari Demon and Arrow Demon | Rate: 8.4
+2024-09-27 15:27:28.820416: Extracting episod 10 from https://www.imdb.com//title/tt9913038
+2024-09-27 15:27:41.061322: Extracted correctly the following episod: Saison: 1 | Episode: 10 | Title: Together Forever | Rate: 8.4
+2024-09-27 15:27:41.076432: Extracting episod 11 from https://www.imdb.com//title/tt9913040
+2024-09-27 15:27:53.619492: Extracted correctly the following episod: Saison: 1 | Episode: 11 | Title: Tsuzumi Mansion | Rate: 7.3
+2024-09-27 15:27:53.635187: Extracting episod 12 from https://www.imdb.com//title/tt9913050
+2024-09-27 15:28:05.947665: Extracted correctly the following episod: Saison: 1 | Episode: 12 | Title: The Boar Bares Its Fangs Zenitsu Sleeps | Rate: 7.9
+2024-09-27 15:28:05.963352: Extracting episod 13 from https://www.imdb.com//title/tt10346080
+2024-09-27 15:28:19.047104: Extracted correctly the following episod: Saison: 1 | Episode: 13 | Title: Something More Important Than Life | Rate: 8.2
+2024-09-27 15:28:19.067786: Extracting episod 14 from https://www.imdb.com//title/tt10433090
+2024-09-27 15:28:32.121393: Extracted correctly the following episod: Saison: 1 | Episode: 14 | Title: The House with the Wisteria Family Crest | Rate: 7.6
+2024-09-27 15:28:32.146373: Extracting episod 15 from https://www.imdb.com//title/tt10433092
+2024-09-27 15:28:44.701714: Extracted correctly the following episod: Saison: 1 | Episode: 15 | Title: Mount Natagumo | Rate: 7.9
+2024-09-27 15:28:44.717298: Extracting episod 16 from https://www.imdb.com//title/tt10433094
+2024-09-27 15:28:57.428898: Extracted correctly the following episod: Saison: 1 | Episode: 16 | Title: Letting Someone Else Go First | Rate: 8.7
+2024-09-27 15:28:57.444657: Extracting episod 17 from https://www.imdb.com//title/tt10433096
+2024-09-27 15:29:09.887041: Extracted correctly the following episod: Saison: 1 | Episode: 17 | Title: You Must Master a Single Thing | Rate: 9.0
+2024-09-27 15:29:09.892497: Extracting episod 18 from https://www.imdb.com//title/tt10433098
+2024-09-27 15:29:22.263306: Extracted correctly the following episod: Saison: 1 | Episode: 18 | Title: A Forged Bond | Rate: 9.0
+2024-09-27 15:29:22.279538: Extracting episod 19 from https://www.imdb.com//title/tt10433100
+2024-09-27 15:29:34.805818: Extracted correctly the following episod: Saison: 1 | Episode: 19 | Title: Hinokami | Rate: 9.7
+2024-09-27 15:29:34.805818: Extracting episod 20 from https://www.imdb.com//title/tt10433102
+2024-09-27 15:29:47.660073: Extracted correctly the following episod: Saison: 1 | Episode: 20 | Title: Pretend Family | Rate: 8.8
+2024-09-27 15:29:47.667100: Extracting episod 21 from https://www.imdb.com//title/tt10433104
+2024-09-27 15:30:00.574490: Extracted correctly the following episod: Saison: 1 | Episode: 21 | Title: Against Corps Rules | Rate: 8.6
+2024-09-27 15:30:00.585617: Extracting episod 22 from https://www.imdb.com//title/tt10433106
+2024-09-27 15:30:13.161999: Extracted correctly the following episod: Saison: 1 | Episode: 22 | Title: Master of the Mansion | Rate: 8.4
+2024-09-27 15:30:13.176106: Extracting episod 23 from https://www.imdb.com//title/tt10433108
+2024-09-27 15:30:25.402889: Extracted correctly the following episod: Saison: 1 | Episode: 23 | Title: Hashira Meeting | Rate: 7.8
+2024-09-27 15:30:25.419039: Extracting episod 24 from https://www.imdb.com//title/tt10433110
+2024-09-27 15:30:38.355310: Extracted correctly the following episod: Saison: 1 | Episode: 24 | Title: Rehabilitation Training | Rate: 7.7
+2024-09-27 15:30:38.363822: Extracting episod 25 from https://www.imdb.com//title/tt10433112
+2024-09-27 15:30:50.943627: Extracted correctly the following episod: Saison: 1 | Episode: 25 | Title: Tsuguko Kanao Tsuyuri | Rate: 7.8
+2024-09-27 15:30:50.959439: Extracting episod 26 from https://www.imdb.com//title/tt10433114
+2024-09-27 15:31:03.913214: Extracted correctly the following episod: Saison: 1 | Episode: 26 | Title: New Mission | Rate: 8.8
+2024-09-27 15:31:03.928951: Extracting episod 27 from https://www.imdb.com//title/tt14617256
+2024-09-27 15:31:16.825472: Extracted correctly the following episod: Saison: 2 | Episode: 1 | Title: Flame Hashira Kyojuro Rengoku | Rate: 8.5
+2024-09-27 15:31:16.839575: Extracting episod 28 from https://www.imdb.com//title/tt15681070
+2024-09-27 15:31:29.603873: Extracted correctly the following episod: Saison: 2 | Episode: 2 | Title: Deep Sleep | Rate: 7.9
+2024-09-27 15:31:29.603873: Extracting episod 29 from https://www.imdb.com//title/tt15713684
+2024-09-27 15:31:42.108758: Extracted correctly the following episod: Saison: 2 | Episode: 3 | Title: Should Have Been | Rate: 8.1
+2024-09-27 15:31:42.124439: Extracting episod 30 from https://www.imdb.com//title/tt15779046
+2024-09-27 15:31:54.796004: Extracted correctly the following episod: Saison: 2 | Episode: 4 | Title: Insult | Rate: 8.3
+2024-09-27 15:31:54.806601: Extracting episod 31 from https://www.imdb.com//title/tt15757610
+2024-09-27 15:32:07.390845: Extracted correctly the following episod: Saison: 2 | Episode: 5 | Title: Move Forward! | Rate: 8.7
+2024-09-27 15:32:07.407244: Extracting episod 32 from https://www.imdb.com//title/tt15757628
+2024-09-27 15:32:20.047910: Extracted correctly the following episod: Saison: 2 | Episode: 6 | Title: Akaza | Rate: 9.4
+2024-09-27 15:32:20.047910: Extracting episod 33 from https://www.imdb.com//title/tt15757632
+2024-09-27 15:32:32.284008: Extracted correctly the following episod: Saison: 2 | Episode: 7 | Title: Set Your Heart Ablaze | Rate: 9.7
+2024-09-27 15:32:32.299618: Extracting episod 34 from https://www.imdb.com//title/tt15757634
+2024-09-27 15:32:44.986385: Extracted correctly the following episod: Saison: 2 | Episode: 8 | Title: Sound Hashira Tengen Uzui | Rate: 7.9
+2024-09-27 15:32:44.990483: Extracting episod 35 from https://www.imdb.com//title/tt16407960
+2024-09-27 15:32:57.423779: Extracted correctly the following episod: Saison: 2 | Episode: 9 | Title: Infiltrating the Entertainment District | Rate: 7.4
+2024-09-27 15:32:57.440165: Extracting episod 36 from https://www.imdb.com//title/tt16441532
+2024-09-27 15:33:10.033255: Extracted correctly the following episod: Saison: 2 | Episode: 10 | Title: What Are You? | Rate: 7.8
+2024-09-27 15:33:10.035264: Extracting episod 37 from https://www.imdb.com//title/tt16503168
+2024-09-27 15:33:22.774731: Extracted correctly the following episod: Saison: 2 | Episode: 11 | Title: Tonight | Rate: 8.2
+2024-09-27 15:33:22.789851: Extracting episod 38 from https://www.imdb.com//title/tt16767544
+2024-09-27 15:33:35.202714: Extracted correctly the following episod: Saison: 2 | Episode: 12 | Title: Things Are Gonna Get Real Flashy! | Rate: 8.7
+2024-09-27 15:33:35.217813: Extracting episod 39 from https://www.imdb.com//title/tt16972222
+2024-09-27 15:33:48.020052: Extracted correctly the following episod: Saison: 2 | Episode: 13 | Title: Layered Memories | Rate: 9.5
+2024-09-27 15:33:48.020052: Extracting episod 40 from https://www.imdb.com//title/tt17008706
+2024-09-27 15:34:00.731636: Extracted correctly the following episod: Saison: 2 | Episode: 14 | Title: Transformation | Rate: 9.4
+2024-09-27 15:34:00.746251: Extracting episod 41 from https://www.imdb.com//title/tt17163896
+2024-09-27 15:34:13.072973: Extracted correctly the following episod: Saison: 2 | Episode: 15 | Title: Gathering | Rate: 9.4
+2024-09-27 15:34:13.089252: Extracting episod 42 from https://www.imdb.com//title/tt17337688
+2024-09-27 15:34:25.938751: Extracted correctly the following episod: Saison: 2 | Episode: 16 | Title: Defeating an Upper Rank Demon | Rate: 9.6
+2024-09-27 15:34:25.942945: Extracting episod 43 from https://www.imdb.com//title/tt17521746
+2024-09-27 15:34:38.962455: Extracted correctly the following episod: Saison: 2 | Episode: 17 | Title: Never Give Up | Rate: 9.7
+2024-09-27 15:34:38.978742: Extracting episod 44 from https://www.imdb.com//title/tt18034898
+2024-09-27 15:34:51.868269: Extracted correctly the following episod: Saison: 2 | Episode: 18 | Title: No Matter How Many Lives | Rate: 8.8
+2024-09-27 15:34:51.868269: Extracting episod 45 from https://www.imdb.com//title/tt27204288
+2024-09-27 15:35:04.475833: Extracted correctly the following episod: Saison: 3 | Episode: 1 | Title: Someone's Dream | Rate: 8.6
+2024-09-27 15:35:04.492100: Extracting episod 46 from https://www.imdb.com//title/tt27471302
+2024-09-27 15:35:17.387516: Extracted correctly the following episod: Saison: 3 | Episode: 2 | Title: Yoriichi Type Zero | Rate: 7.3
+2024-09-27 15:35:17.403787: Extracting episod 47 from https://www.imdb.com//title/tt27488498
+2024-09-27 15:35:30.418136: Extracted correctly the following episod: Saison: 3 | Episode: 3 | Title: A Sword from Over 300 Years Ago | Rate: 8.4
+2024-09-27 15:35:30.433850: Extracting episod 48 from https://www.imdb.com//title/tt27580481
+2024-09-27 15:35:43.045317: Extracted correctly the following episod: Saison: 3 | Episode: 4 | Title: Thank You Tokito | Rate: 8.2
+2024-09-27 15:35:43.060411: Extracting episod 49 from https://www.imdb.com//title/tt27643967
+2024-09-27 15:35:55.478641: Extracted correctly the following episod: Saison: 3 | Episode: 5 | Title: Bright Red Sword | Rate: 9.2
+2024-09-27 15:35:55.494218: Extracting episod 50 from https://www.imdb.com//title/tt27696585
+2024-09-27 15:36:07.950482: Extracted correctly the following episod: Saison: 3 | Episode: 6 | Title: Aren't You Going to Become A Hashira? | Rate: 8.7
+2024-09-27 15:36:07.952529: Extracting episod 51 from https://www.imdb.com//title/tt27752537
+2024-09-27 15:36:20.541456: Extracted correctly the following episod: Saison: 3 | Episode: 7 | Title: Awful Villain | Rate: 8.0
+2024-09-27 15:36:20.557182: Extracting episod 52 from https://www.imdb.com//title/tt27820012
+2024-09-27 15:36:32.998735: Extracted correctly the following episod: Saison: 3 | Episode: 8 | Title: The Mu in Muichiro | Rate: 8.7
+2024-09-27 15:36:33.014911: Extracting episod 53 from https://www.imdb.com//title/tt27880399
+2024-09-27 15:36:46.120602: Extracted correctly the following episod: Saison: 3 | Episode: 9 | Title: Mist Hashira Muichiro Tokito | Rate: 8.6
+2024-09-27 15:36:46.135723: Extracting episod 54 from https://www.imdb.com//title/tt27941580
+2024-09-27 15:36:58.688286: Extracted correctly the following episod: Saison: 3 | Episode: 10 | Title: Love Hashira Mitsuri Kanroji | Rate: 8.3
+2024-09-27 15:36:58.704628: Extracting episod 55 from https://www.imdb.com//title/tt28069671
+2024-09-27 15:37:11.140476: Extracted correctly the following episod: Saison: 3 | Episode: 11 | Title: A Connected Bond: Daybreak and First Light | Rate: 9.4
+2024-09-27 15:37:11.156070: Extracting episod 56 from https://www.imdb.com//title/tt29452416
+2024-09-27 15:37:23.759091: Extracted correctly the following episod: Saison: 4 | Episode: 1 | Title: To Defeat Muzan Kibutsuji | Rate: 8.0
+2024-09-27 15:37:23.774765: Extracting episod 57 from https://www.imdb.com//title/tt29452420
+2024-09-27 15:37:36.069700: Extracted correctly the following episod: Saison: 4 | Episode: 2 | Title: The Sorrows of the Water Hashira Giyu Tomioka | Rate: 7.5
+2024-09-27 15:37:36.085278: Extracting episod 58 from https://www.imdb.com//title/tt29452422
+2024-09-27 15:37:48.548300: Extracted correctly the following episod: Saison: 4 | Episode: 3 | Title: Fully Recovered Tanjiro Joins the Hashira Training! | Rate: 7.2
+2024-09-27 15:37:48.568223: Extracting episod 59 from https://www.imdb.com//title/tt29452429
+2024-09-27 15:38:01.925307: Extracted correctly the following episod: Saison: 4 | Episode: 4 | Title: To Bring a Smile to One's Face | Rate: 7.1
+2024-09-27 15:38:01.940404: Extracting episod 60 from https://www.imdb.com//title/tt29452430
+2024-09-27 15:38:15.191526: Extracted correctly the following episod: Saison: 4 | Episode: 5 | Title: I Even Ate Demons... | Rate: 7.4
+2024-09-27 15:38:15.207129: Extracting episod 61 from https://www.imdb.com//title/tt29452434
+2024-09-27 15:38:27.924913: Extracted correctly the following episod: Saison: 4 | Episode: 6 | Title: The Strongest of the Demon Slayer Corps | Rate: 7.3
+2024-09-27 15:38:27.946734: Extracting episod 62 from https://www.imdb.com//title/tt29452436
+2024-09-27 15:38:40.034013: Extracted correctly the following episod: Saison: 4 | Episode: 7 | Title: Stone Hashira Gyomei Himejima | Rate: 8.7
+2024-09-27 15:38:40.038193: Extracting episod 63 from https://www.imdb.com//title/tt29452438
+2024-09-27 15:38:54.058866: Extracted correctly the following episod: Saison: 4 | Episode: 8 | Title: The Hashira Unite | Rate: 9.8
+2024-09-27 15:38:54.152899: Extracting 63 episod successfuly
+2024-09-27 15:38:54.172471: Sending 63 rows to MySQL table 'DemonSlayer'.

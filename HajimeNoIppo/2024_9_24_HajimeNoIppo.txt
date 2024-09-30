@@ -1,0 +1,87 @@
+2024-09-24 16:12:56.617026: Connecting to MySQL HajimeNoIppo database
+2024-09-24 16:12:56.635560: Connected to HajimeNoIppo database
+2024-09-24 16:12:56.641189: Creating table IMDB into HajimeNoIppo if doesn't exist
+2024-09-24 16:12:56.656091: Table IMDB created into HajimeNoIppo successfully
+2024-09-24 16:12:56.667883: Extracting number total of episode and number of episod already in IMDB table HajimeNoIppo
+2024-09-24 16:12:56.670894: There are 76 Onepiece episods
+2024-09-24 16:12:56.675891: There is(are) 0 episod(s) already in IMDB table
+2024-09-24 16:12:56.702875: There is(are) 76 episod(s) to extract
+2024-09-24 16:12:56.750518: Extracting episod 1 from https://www.imdb.com/title/tt1484155
+2024-09-24 16:13:11.760577: Extracting episod 2 from https://www.imdb.com//title/tt1484154
+2024-09-24 16:13:25.470844: Extracting episod 3 from https://www.imdb.com//title/tt1484157
+2024-09-24 16:13:38.631522: Extracting episod 4 from https://www.imdb.com//title/tt1484156
+2024-09-24 16:13:50.946991: Extracting episod 5 from https://www.imdb.com//title/tt1790187
+2024-09-24 16:14:03.959640: Extracting episod 6 from https://www.imdb.com//title/tt1790189
+2024-09-24 16:14:16.514418: Extracting episod 7 from https://www.imdb.com//title/tt1790188
+2024-09-24 16:14:29.089093: Extracting episod 8 from https://www.imdb.com//title/tt4905470
+2024-09-24 16:14:42.649533: Extracting episod 9 from https://www.imdb.com//title/tt4905476
+2024-09-24 16:14:55.541629: Extracting episod 10 from https://www.imdb.com//title/tt4905478
+2024-09-24 16:15:08.835254: Extracting episod 11 from https://www.imdb.com//title/tt4934814
+2024-09-24 16:15:22.699097: Extracting episod 12 from https://www.imdb.com//title/tt4934820
+2024-09-24 16:15:36.461604: Extracting episod 13 from https://www.imdb.com//title/tt4934926
+2024-09-24 16:15:49.820371: Extracting episod 14 from https://www.imdb.com//title/tt4934928
+2024-09-24 16:16:02.877642: Extracting episod 15 from https://www.imdb.com//title/tt4934930
+2024-09-24 16:16:15.655748: Extracting episod 16 from https://www.imdb.com//title/tt4935352
+2024-09-24 16:16:27.949085: Extracting episod 17 from https://www.imdb.com//title/tt4935356
+2024-09-24 16:16:42.187565: Extracting episod 18 from https://www.imdb.com//title/tt4935358
+2024-09-24 16:16:54.627604: Extracting episod 19 from https://www.imdb.com//title/tt4935360
+2024-09-24 16:17:09.295234: Extracting episod 20 from https://www.imdb.com//title/tt3839766
+2024-09-24 16:17:22.171761: Extracting episod 21 from https://www.imdb.com//title/tt4937334
+2024-09-24 16:17:36.110157: Extracting episod 22 from https://www.imdb.com//title/tt4937336
+2024-09-24 16:17:50.031130: Extracting episod 23 from https://www.imdb.com//title/tt4937338
+2024-09-24 16:18:02.606390: Extracting episod 24 from https://www.imdb.com//title/tt4937340
+2024-09-24 16:18:14.859239: Extracting episod 25 from https://www.imdb.com//title/tt4937342
+2024-09-24 16:18:27.610732: Extracting episod 26 from https://www.imdb.com//title/tt4937346
+2024-09-24 16:18:41.229058: Extracting episod 27 from https://www.imdb.com//title/tt4937348
+2024-09-24 16:18:55.024941: Extracting episod 28 from https://www.imdb.com//title/tt4937350
+2024-09-24 16:19:08.017340: Extracting episod 29 from https://www.imdb.com//title/tt4937352
+2024-09-24 16:19:20.847764: Extracting episod 30 from https://www.imdb.com//title/tt4937354
+2024-09-24 16:19:33.762812: Extracting episod 31 from https://www.imdb.com//title/tt4937356
+2024-09-24 16:19:46.429758: Extracting episod 32 from https://www.imdb.com//title/tt4937358
+2024-09-24 16:19:59.501017: Extracting episod 33 from https://www.imdb.com//title/tt4937360
+2024-09-24 16:20:11.904128: Extracting episod 34 from https://www.imdb.com//title/tt4937362
+2024-09-24 16:20:24.753776: Extracting episod 35 from https://www.imdb.com//title/tt4937382
+2024-09-24 16:20:36.981994: Extracting episod 36 from https://www.imdb.com//title/tt4937380
+2024-09-24 16:20:49.321242: Extracting episod 37 from https://www.imdb.com//title/tt4937394
+2024-09-24 16:21:01.857266: Extracting episod 38 from https://www.imdb.com//title/tt4937392
+2024-09-24 16:21:14.422247: Extracting episod 39 from https://www.imdb.com//title/tt4937400
+2024-09-24 16:21:27.146810: Extracting episod 40 from https://www.imdb.com//title/tt4937402
+2024-09-24 16:21:39.855972: Extracting episod 41 from https://www.imdb.com//title/tt4937414
+2024-09-24 16:21:51.587533: Extracting episod 42 from https://www.imdb.com//title/tt4937418
+2024-09-24 16:22:04.643441: Extracting episod 43 from https://www.imdb.com//title/tt4937416
+2024-09-24 16:22:17.064471: Extracting episod 44 from https://www.imdb.com//title/tt4937424
+2024-09-24 16:22:31.196630: Extracting episod 45 from https://www.imdb.com//title/tt4937422
+2024-09-24 16:22:43.976625: Extracting episod 46 from https://www.imdb.com//title/tt4937426
+2024-09-24 16:22:57.625555: Extracting episod 47 from https://www.imdb.com//title/tt4937428
+2024-09-24 16:23:11.030451: Extracting episod 48 from https://www.imdb.com//title/tt4937430
+2024-09-24 16:23:23.163641: Extracting episod 49 from https://www.imdb.com//title/tt4937432
+2024-09-24 16:23:37.484549: Extracting episod 50 from https://www.imdb.com//title/tt4937434
+2024-09-24 16:23:50.660314: Extracting episod 51 from https://www.imdb.com//title/tt4937436
+2024-09-24 16:24:03.120773: Extracting episod 52 from https://www.imdb.com//title/tt4937442
+2024-09-24 16:24:16.264568: Extracting episod 53 from https://www.imdb.com//title/tt4937438
+2024-09-24 16:24:29.674453: Extracting episod 54 from https://www.imdb.com//title/tt4937440
+2024-09-24 16:24:42.900853: Extracting episod 55 from https://www.imdb.com//title/tt4937448
+2024-09-24 16:24:56.144420: Extracting episod 56 from https://www.imdb.com//title/tt4937450
+2024-09-24 16:25:09.355694: Extracting episod 57 from https://www.imdb.com//title/tt4937452
+2024-09-24 16:25:21.931238: Extracting episod 58 from https://www.imdb.com//title/tt4937456
+2024-09-24 16:25:34.224173: Extracting episod 59 from https://www.imdb.com//title/tt4937454
+2024-09-24 16:25:46.865536: Extracting episod 60 from https://www.imdb.com//title/tt4937458
+2024-09-24 16:25:59.229292: Extracting episod 61 from https://www.imdb.com//title/tt4937460
+2024-09-24 16:26:11.658704: Extracting episod 62 from https://www.imdb.com//title/tt4937464
+2024-09-24 16:26:24.030618: Extracting episod 63 from https://www.imdb.com//title/tt4937466
+2024-09-24 16:26:36.628193: Extracting episod 64 from https://www.imdb.com//title/tt4937468
+2024-09-24 16:26:48.559959: Extracting episod 65 from https://www.imdb.com//title/tt4937474
+2024-09-24 16:27:01.575798: Extracting episod 66 from https://www.imdb.com//title/tt4937472
+2024-09-24 16:27:15.505486: Extracting episod 67 from https://www.imdb.com//title/tt4937476
+2024-09-24 16:27:28.220511: Extracting episod 68 from https://www.imdb.com//title/tt0795114
+2024-09-24 16:27:41.542812: Extracting episod 69 from https://www.imdb.com//title/tt3204042
+2024-09-24 16:27:53.755403: Extracting episod 70 from https://www.imdb.com//title/tt3204046
+2024-09-24 16:28:06.694720: Extracting episod 71 from https://www.imdb.com//title/tt3204052
+2024-09-24 16:28:19.147461: Extracting episod 72 from https://www.imdb.com//title/tt3204056
+2024-09-24 16:28:31.138291: Extracting episod 73 from https://www.imdb.com//title/tt3204058
+2024-09-24 16:28:43.562527: Extracting episod 74 from https://www.imdb.com//title/tt3204062
+2024-09-24 16:28:56.041267: Extracting episod 75 from https://www.imdb.com//title/tt3204064
+2024-09-24 16:29:08.735721: Extracting episod 76 from https://www.imdb.com//title/tt3204070
+2024-09-24 16:31:29.107705: Extracting 76 episod successfuly
+2024-09-24 16:31:29.128127: Sending 76 rows to MySQL table 'IMDB'.
+2024-09-24 16:31:29.200976: Successfully sent 76 rows to MySQL table 'IMDB'.
