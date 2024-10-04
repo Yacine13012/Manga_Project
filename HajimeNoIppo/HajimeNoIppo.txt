@@ -1,0 +1,15 @@
+2024-10-04 14:22:43.186435:   Start extration of Hajime No Ippo 
+
+2024-10-04 14:22:43.187682: Connecting to MySQL manga database
+2024-10-04 14:22:43.205677: Connected to manga database
+2024-10-04 14:22:43.213965: Table HajimeNoIppo already exist into manga database
+2024-10-04 14:22:43.213965: Extracting number of episod already in HajimeNoIppo table
+2024-10-04 14:22:43.223443: There is(are) 73 episod(s) already in HajimeNoIppo table
+2024-10-04 14:22:43.227628: There are 76 Hajime No Ippo episods
+2024-10-04 14:22:43.228630: There is(are) 3 episod(s) to extract
+2024-10-04 14:27:43.204112: Extracting episod 74 from https://www.imdb.com//title/tt3204062
+2024-10-04 14:27:56.634183: Extracting episod 75 from https://www.imdb.com//title/tt3204064
+2024-10-04 14:28:12.578065: Extracting episod 76 from https://www.imdb.com//title/tt3204070
+2024-10-04 14:28:26.378171: Extracting 3 episod successfuly
+2024-10-04 14:28:26.419634: Sending 3 rows to MySQL table 'HajimeNoIppo'.
+2024-10-04 14:28:26.428404: Successfully sent 3 rows to MySQL table 'HajimeNoIppo'.

@@ -1,0 +1,380 @@
+2024-10-04 17:09:45.909898: Start extration of Fairy Tail
+2024-10-04 17:09:45.913379: Connecting to MySQL manga database
+2024-10-04 17:09:45.922379: Connected to manga database
+2024-10-04 17:09:45.931414: Creating table FairyTail into manga database
+2024-10-04 17:09:45.943481: Table FairyTail created into manga database successfully
+2024-10-04 17:09:45.961212: There are 325 Fairy Tail episods
+2024-10-04 17:09:45.962353: There is(are) 325 episod(s) to extract
+2024-10-04 17:09:46.113811: Extracting 48 episod(s) from season 1 in the following https://www.imdb.com/title/tt1528406/episodes/?season=1
+2024-10-04 17:10:01.758516: Extracting episod 1
+2024-10-04 17:10:01.760533: Extracting episod 2
+2024-10-04 17:10:01.762497: Extracting episod 3
+2024-10-04 17:10:01.764477: Extracting episod 4
+2024-10-04 17:10:01.765492: Extracting episod 5
+2024-10-04 17:10:01.769057: Extracting episod 6
+2024-10-04 17:10:01.771104: Extracting episod 7
+2024-10-04 17:10:01.772351: Extracting episod 8
+2024-10-04 17:10:01.774162: Extracting episod 9
+2024-10-04 17:10:01.775717: Extracting episod 10
+2024-10-04 17:10:01.778646: Extracting episod 11
+2024-10-04 17:10:01.780649: Extracting episod 12
+2024-10-04 17:10:01.783648: Extracting episod 13
+2024-10-04 17:10:01.785769: Extracting episod 14
+2024-10-04 17:10:01.787525: Extracting episod 15
+2024-10-04 17:10:01.789572: Extracting episod 16
+2024-10-04 17:10:01.790650: Extracting episod 17
+2024-10-04 17:10:01.792666: Extracting episod 18
+2024-10-04 17:10:01.795833: Extracting episod 19
+2024-10-04 17:10:01.798734: Extracting episod 20
+2024-10-04 17:10:01.802202: Extracting episod 21
+2024-10-04 17:10:01.804304: Extracting episod 22
+2024-10-04 17:10:01.806401: Extracting episod 23
+2024-10-04 17:10:01.809304: Extracting episod 24
+2024-10-04 17:10:01.811306: Extracting episod 25
+2024-10-04 17:10:01.812396: Extracting episod 26
+2024-10-04 17:10:01.814388: Extracting episod 27
+2024-10-04 17:10:01.817129: Extracting episod 28
+2024-10-04 17:10:01.818754: Extracting episod 29
+2024-10-04 17:10:01.818754: Extracting episod 30
+2024-10-04 17:10:01.818754: Extracting episod 31
+2024-10-04 17:10:01.818754: Extracting episod 32
+2024-10-04 17:10:01.818754: Extracting episod 33
+2024-10-04 17:10:01.818754: Extracting episod 34
+2024-10-04 17:10:01.818754: Extracting episod 35
+2024-10-04 17:10:01.834345: Extracting episod 36
+2024-10-04 17:10:01.834345: Extracting episod 37
+2024-10-04 17:10:01.834345: Extracting episod 38
+2024-10-04 17:10:01.843563: Extracting episod 39
+2024-10-04 17:10:01.843563: Extracting episod 40
+2024-10-04 17:10:01.846437: Extracting episod 41
+2024-10-04 17:10:01.846437: Extracting episod 42
+2024-10-04 17:10:01.850483: Extracting episod 43
+2024-10-04 17:10:01.854472: Extracting episod 44
+2024-10-04 17:10:01.857478: Extracting episod 45
+2024-10-04 17:10:01.860491: Extracting episod 46
+2024-10-04 17:10:01.862479: Extracting episod 47
+2024-10-04 17:10:01.864577: Extracting episod 48
+2024-10-04 17:10:01.869907: Extracted 48 episod successfuly
+2024-10-04 17:10:01.885313: Sending 48 rows to MySQL table 'FairyTail'.
+2024-10-04 17:10:01.893746: Successfully sent 48 rows to MySQL table 'FairyTail'.
+2024-10-04 17:10:01.894391: There is(are) 48 episod(s) already in FairyTail table
+2024-10-04 17:10:01.903592: There is(are) 277 episod(s) to extract
+2024-10-04 17:10:01.904396: Extracting 48 episod(s) from season 2 in the following https://www.imdb.com/title/tt1528406/episodes/?season=2
+2024-10-04 17:10:18.026657: Extracting episod 1
+2024-10-04 17:10:18.026657: Extracting episod 2
+2024-10-04 17:10:18.042314: Extracting episod 3
+2024-10-04 17:10:18.042314: Extracting episod 4
+2024-10-04 17:10:18.042314: Extracting episod 5
+2024-10-04 17:10:18.042314: Extracting episod 6
+2024-10-04 17:10:18.057926: Extracting episod 7
+2024-10-04 17:10:18.057926: Extracting episod 8
+2024-10-04 17:10:18.057926: Extracting episod 9
+2024-10-04 17:10:18.057926: Extracting episod 10
+2024-10-04 17:10:18.057926: Extracting episod 11
+2024-10-04 17:10:18.073640: Extracting episod 12
+2024-10-04 17:10:18.073640: Extracting episod 13
+2024-10-04 17:10:18.073640: Extracting episod 14
+2024-10-04 17:10:18.073640: Extracting episod 15
+2024-10-04 17:10:18.073640: Extracting episod 16
+2024-10-04 17:10:18.073640: Extracting episod 17
+2024-10-04 17:10:18.089178: Extracting episod 18
+2024-10-04 17:10:18.089178: Extracting episod 19
+2024-10-04 17:10:18.089178: Extracting episod 20
+2024-10-04 17:10:18.089178: Extracting episod 21
+2024-10-04 17:10:18.089178: Extracting episod 22
+2024-10-04 17:10:18.089178: Extracting episod 23
+2024-10-04 17:10:18.089178: Extracting episod 24
+2024-10-04 17:10:18.104802: Extracting episod 25
+2024-10-04 17:10:18.105570: Extracting episod 26
+2024-10-04 17:10:18.105570: Extracting episod 27
+2024-10-04 17:10:18.105570: Extracting episod 28
+2024-10-04 17:10:18.105570: Extracting episod 29
+2024-10-04 17:10:18.105570: Extracting episod 30
+2024-10-04 17:10:18.105570: Extracting episod 31
+2024-10-04 17:10:18.121176: Extracting episod 32
+2024-10-04 17:10:18.121176: Extracting episod 33
+2024-10-04 17:10:18.127218: Extracting episod 34
+2024-10-04 17:10:18.129461: Extracting episod 35
+2024-10-04 17:10:18.131374: Extracting episod 36
+2024-10-04 17:10:18.134875: Extracting episod 37
+2024-10-04 17:10:18.134875: Extracting episod 38
+2024-10-04 17:10:18.134875: Extracting episod 39
+2024-10-04 17:10:18.144765: Extracting episod 40
+2024-10-04 17:10:18.144765: Extracting episod 41
+2024-10-04 17:10:18.144765: Extracting episod 42
+2024-10-04 17:10:18.144765: Extracting episod 43
+2024-10-04 17:10:18.144765: Extracting episod 44
+2024-10-04 17:10:18.144765: Extracting episod 45
+2024-10-04 17:10:18.144765: Extracting episod 46
+2024-10-04 17:10:18.144765: Extracting episod 47
+2024-10-04 17:10:18.161139: Extracting episod 48
+2024-10-04 17:10:18.165527: Extracted 48 episod successfuly
+2024-10-04 17:10:18.181476: Sending 48 rows to MySQL table 'FairyTail'.
+2024-10-04 17:10:18.190235: Successfully sent 48 rows to MySQL table 'FairyTail'.
+2024-10-04 17:10:18.192198: There is(are) 96 episod(s) already in FairyTail table
+2024-10-04 17:10:18.194281: There is(are) 229 episod(s) to extract
+2024-10-04 17:10:18.200214: Extracting 50 episod(s) from season 3 in the following https://www.imdb.com/title/tt1528406/episodes/?season=3
+2024-10-04 17:10:32.702310: Extracting episod 1
+2024-10-04 17:10:32.702310: Extracting episod 2
+2024-10-04 17:10:32.702310: Extracting episod 3
+2024-10-04 17:10:32.713856: Extracting episod 4
+2024-10-04 17:10:32.713856: Extracting episod 5
+2024-10-04 17:10:32.713856: Extracting episod 6
+2024-10-04 17:10:32.729509: Extracting episod 7
+2024-10-04 17:10:32.729509: Extracting episod 8
+2024-10-04 17:10:32.729509: Extracting episod 9
+2024-10-04 17:10:32.743116: Extracting episod 10
+2024-10-04 17:10:32.746306: Extracting episod 11
+2024-10-04 17:10:32.746306: Extracting episod 12
+2024-10-04 17:10:32.746306: Extracting episod 13
+2024-10-04 17:10:32.746306: Extracting episod 14
+2024-10-04 17:10:32.761326: Extracting episod 15
+2024-10-04 17:10:32.761326: Extracting episod 16
+2024-10-04 17:10:32.761326: Extracting episod 17
+2024-10-04 17:10:32.761326: Extracting episod 18
+2024-10-04 17:10:32.777048: Extracting episod 19
+2024-10-04 17:10:32.777048: Extracting episod 20
+2024-10-04 17:10:32.777048: Extracting episod 21
+2024-10-04 17:10:32.790061: Extracting episod 22
+2024-10-04 17:10:32.795105: Extracting episod 23
+2024-10-04 17:10:32.798104: Extracting episod 24
+2024-10-04 17:10:32.800155: Extracting episod 25
+2024-10-04 17:10:32.803203: Extracting episod 26
+2024-10-04 17:10:32.807762: Extracting episod 27
+2024-10-04 17:10:32.811770: Extracting episod 28
+2024-10-04 17:10:32.814771: Extracting episod 29
+2024-10-04 17:10:32.817840: Extracting episod 30
+2024-10-04 17:10:32.819838: Extracting episod 31
+2024-10-04 17:10:32.823837: Extracting episod 32
+2024-10-04 17:10:32.826904: Extracting episod 33
+2024-10-04 17:10:32.828969: Extracting episod 34
+2024-10-04 17:10:32.831062: Extracting episod 35
+2024-10-04 17:10:32.834091: Extracting episod 36
+2024-10-04 17:10:32.837045: Extracting episod 37
+2024-10-04 17:10:32.841200: Extracting episod 38
+2024-10-04 17:10:32.843802: Extracting episod 39
+2024-10-04 17:10:32.846809: Extracting episod 40
+2024-10-04 17:10:32.849901: Extracting episod 41
+2024-10-04 17:10:32.853849: Extracting episod 42
+2024-10-04 17:10:32.854873: Extracting episod 43
+2024-10-04 17:10:32.854873: Extracting episod 44
+2024-10-04 17:10:32.854873: Extracting episod 45
+2024-10-04 17:10:32.854873: Extracting episod 46
+2024-10-04 17:10:32.870507: Extracting episod 47
+2024-10-04 17:10:32.870507: Extracting episod 48
+2024-10-04 17:10:32.870507: Extracting episod 49
+2024-10-04 17:10:32.870507: Extracting episod 50
+2024-10-04 17:10:32.886134: Extracted 50 episod successfuly
+2024-10-04 17:10:32.907080: Sending 50 rows to MySQL table 'FairyTail'.
+2024-10-04 17:10:32.918309: Successfully sent 50 rows to MySQL table 'FairyTail'.
+2024-10-04 17:10:32.918309: There is(are) 146 episod(s) already in FairyTail table
+2024-10-04 17:10:32.918309: There is(are) 179 episod(s) to extract
+2024-10-04 17:10:32.933403: Extracting 25 episod(s) from season 4 in the following https://www.imdb.com/title/tt1528406/episodes/?season=4
+2024-10-04 17:10:47.701632: Extracting episod 1
+2024-10-04 17:10:47.712169: Extracting episod 2
+2024-10-04 17:10:47.712169: Extracting episod 3
+2024-10-04 17:10:47.712169: Extracting episod 4
+2024-10-04 17:10:47.727183: Extracting episod 5
+2024-10-04 17:10:47.727183: Extracting episod 6
+2024-10-04 17:10:47.727183: Extracting episod 7
+2024-10-04 17:10:47.727183: Extracting episod 8
+2024-10-04 17:10:47.727183: Extracting episod 9
+2024-10-04 17:10:47.743626: Extracting episod 10
+2024-10-04 17:10:47.743626: Extracting episod 11
+2024-10-04 17:10:47.743626: Extracting episod 12
+2024-10-04 17:10:47.743626: Extracting episod 13
+2024-10-04 17:10:47.743626: Extracting episod 14
+2024-10-04 17:10:47.743626: Extracting episod 15
+2024-10-04 17:10:47.758736: Extracting episod 16
+2024-10-04 17:10:47.758736: Extracting episod 17
+2024-10-04 17:10:47.766859: Extracting episod 18
+2024-10-04 17:10:47.766859: Extracting episod 19
+2024-10-04 17:10:47.774464: Extracting episod 20
+2024-10-04 17:10:47.774464: Extracting episod 21
+2024-10-04 17:10:47.774464: Extracting episod 22
+2024-10-04 17:10:47.774464: Extracting episod 23
+2024-10-04 17:10:47.790189: Extracting episod 24
+2024-10-04 17:10:47.798323: Extracting episod 25
+2024-10-04 17:10:47.804514: Extracted 25 episod successfuly
+2024-10-04 17:10:47.817987: Sending 25 rows to MySQL table 'FairyTail'.
+2024-10-04 17:10:47.836919: Successfully sent 25 rows to MySQL table 'FairyTail'.
+2024-10-04 17:10:47.842007: There is(are) 171 episod(s) already in FairyTail table
+2024-10-04 17:10:47.845160: There is(are) 154 episod(s) to extract
+2024-10-04 17:10:47.854514: Extracting 50 episod(s) from season 5 in the following https://www.imdb.com/title/tt1528406/episodes/?season=5
+2024-10-04 17:11:01.676988: Extracting episod 1
+2024-10-04 17:11:01.688094: Extracting episod 2
+2024-10-04 17:11:01.690111: Extracting episod 3
+2024-10-04 17:11:01.690111: Extracting episod 4
+2024-10-04 17:11:01.704215: Extracting episod 5
+2024-10-04 17:11:01.704215: Extracting episod 6
+2024-10-04 17:11:01.704215: Extracting episod 7
+2024-10-04 17:11:01.719858: Extracting episod 8
+2024-10-04 17:11:01.719858: Extracting episod 9
+2024-10-04 17:11:01.719858: Extracting episod 10
+2024-10-04 17:11:01.719858: Extracting episod 11
+2024-10-04 17:11:01.735482: Extracting episod 12
+2024-10-04 17:11:01.735482: Extracting episod 13
+2024-10-04 17:11:01.735482: Extracting episod 14
+2024-10-04 17:11:01.751108: Extracting episod 15
+2024-10-04 17:11:01.751108: Extracting episod 16
+2024-10-04 17:11:01.751108: Extracting episod 17
+2024-10-04 17:11:01.766784: Extracting episod 18
+2024-10-04 17:11:01.767729: Extracting episod 19
+2024-10-04 17:11:01.774625: Extracting episod 20
+2024-10-04 17:11:01.778949: Extracting episod 21
+2024-10-04 17:11:01.782675: Extracting episod 22
+2024-10-04 17:11:01.782675: Extracting episod 23
+2024-10-04 17:11:01.791403: Extracting episod 24
+2024-10-04 17:11:01.794221: Extracting episod 25
+2024-10-04 17:11:01.794221: Extracting episod 26
+2024-10-04 17:11:01.794221: Extracting episod 27
+2024-10-04 17:11:01.794221: Extracting episod 28
+2024-10-04 17:11:01.807756: Extracting episod 29
+2024-10-04 17:11:01.811752: Extracting episod 30
+2024-10-04 17:11:01.815671: Extracting episod 31
+2024-10-04 17:11:01.818963: Extracting episod 32
+2024-10-04 17:11:01.821928: Extracting episod 33
+2024-10-04 17:11:01.825235: Extracting episod 34
+2024-10-04 17:11:01.829226: Extracting episod 35
+2024-10-04 17:11:01.833144: Extracting episod 36
+2024-10-04 17:11:01.837209: Extracting episod 37
+2024-10-04 17:11:01.840290: Extracting episod 38
+2024-10-04 17:11:01.840290: Extracting episod 39
+2024-10-04 17:11:01.840290: Extracting episod 40
+2024-10-04 17:11:01.840290: Extracting episod 41
+2024-10-04 17:11:01.855927: Extracting episod 42
+2024-10-04 17:11:01.857433: Extracting episod 43
+2024-10-04 17:11:01.857433: Extracting episod 44
+2024-10-04 17:11:01.857433: Extracting episod 45
+2024-10-04 17:11:01.857433: Extracting episod 46
+2024-10-04 17:11:01.871944: Extracting episod 47
+2024-10-04 17:11:01.873235: Extracting episod 48
+2024-10-04 17:11:01.873235: Extracting episod 49
+2024-10-04 17:11:01.873235: Extracting episod 50
+2024-10-04 17:11:01.885067: Extracted 50 episod successfuly
+2024-10-04 17:11:01.905734: Sending 50 rows to MySQL table 'FairyTail'.
+2024-10-04 17:11:01.906319: Successfully sent 50 rows to MySQL table 'FairyTail'.
+2024-10-04 17:11:01.920479: There is(are) 221 episod(s) already in FairyTail table
+2024-10-04 17:11:01.920479: There is(are) 104 episod(s) to extract
+2024-10-04 17:11:01.934552: Extracting 39 episod(s) from season 6 in the following https://www.imdb.com/title/tt1528406/episodes/?season=6
+2024-10-04 17:11:14.692120: Extracting episod 1
+2024-10-04 17:11:14.703134: Extracting episod 2
+2024-10-04 17:11:14.703134: Extracting episod 3
+2024-10-04 17:11:14.710237: Extracting episod 4
+2024-10-04 17:11:14.710237: Extracting episod 5
+2024-10-04 17:11:14.719329: Extracting episod 6
+2024-10-04 17:11:14.719329: Extracting episod 7
+2024-10-04 17:11:14.719329: Extracting episod 8
+2024-10-04 17:11:14.734979: Extracting episod 9
+2024-10-04 17:11:14.734979: Extracting episod 10
+2024-10-04 17:11:14.734979: Extracting episod 11
+2024-10-04 17:11:14.752096: Extracting episod 12
+2024-10-04 17:11:14.752096: Extracting episod 13
+2024-10-04 17:11:14.752096: Extracting episod 14
+2024-10-04 17:11:14.752096: Extracting episod 15
+2024-10-04 17:11:14.766694: Extracting episod 16
+2024-10-04 17:11:14.766694: Extracting episod 17
+2024-10-04 17:11:14.774286: Extracting episod 18
+2024-10-04 17:11:14.774286: Extracting episod 19
+2024-10-04 17:11:14.782406: Extracting episod 20
+2024-10-04 17:11:14.784625: Extracting episod 21
+2024-10-04 17:11:14.789624: Extracting episod 22
+2024-10-04 17:11:14.793624: Extracting episod 23
+2024-10-04 17:11:14.799175: Extracting episod 24
+2024-10-04 17:11:14.803172: Extracting episod 25
+2024-10-04 17:11:14.807171: Extracting episod 26
+2024-10-04 17:11:14.809429: Extracting episod 27
+2024-10-04 17:11:14.813045: Extracting episod 28
+2024-10-04 17:11:14.815015: Extracting episod 29
+2024-10-04 17:11:14.818094: Extracting episod 30
+2024-10-04 17:11:14.822119: Extracting episod 31
+2024-10-04 17:11:14.826099: Extracting episod 32
+2024-10-04 17:11:14.829025: Extracting episod 33
+2024-10-04 17:11:14.832580: Extracting episod 34
+2024-10-04 17:11:14.832580: Extracting episod 35
+2024-10-04 17:11:14.832580: Extracting episod 36
+2024-10-04 17:11:14.832580: Extracting episod 37
+2024-10-04 17:11:14.848209: Extracting episod 38
+2024-10-04 17:11:14.850136: Extracting episod 39
+2024-10-04 17:11:14.859619: Extracted 39 episod successfuly
+2024-10-04 17:11:14.881507: Sending 39 rows to MySQL table 'FairyTail'.
+2024-10-04 17:11:14.881507: Successfully sent 39 rows to MySQL table 'FairyTail'.
+2024-10-04 17:11:14.896145: There is(are) 260 episod(s) already in FairyTail table
+2024-10-04 17:11:14.896145: There is(are) 65 episod(s) to extract
+2024-10-04 17:11:14.911783: Extracting 15 episod(s) from season 7 in the following https://www.imdb.com/title/tt1528406/episodes/?season=7
+2024-10-04 17:11:27.990076: Extracting episod 1
+2024-10-04 17:11:28.005672: Extracting episod 2
+2024-10-04 17:11:28.005672: Extracting episod 3
+2024-10-04 17:11:28.005672: Extracting episod 4
+2024-10-04 17:11:28.005672: Extracting episod 5
+2024-10-04 17:11:28.021206: Extracting episod 6
+2024-10-04 17:11:28.021206: Extracting episod 7
+2024-10-04 17:11:28.021206: Extracting episod 8
+2024-10-04 17:11:28.031237: Extracting episod 9
+2024-10-04 17:11:28.031237: Extracting episod 10
+2024-10-04 17:11:28.031237: Extracting episod 11
+2024-10-04 17:11:28.037284: Extracting episod 12
+2024-10-04 17:11:28.037284: Extracting episod 13
+2024-10-04 17:11:28.037284: Extracting episod 14
+2024-10-04 17:11:28.037284: Extracting episod 15
+2024-10-04 17:11:28.055881: Extracted 15 episod successfuly
+2024-10-04 17:11:28.076171: Sending 15 rows to MySQL table 'FairyTail'.
+2024-10-04 17:11:28.089516: Successfully sent 15 rows to MySQL table 'FairyTail'.
+2024-10-04 17:11:28.093630: There is(are) 275 episod(s) already in FairyTail table
+2024-10-04 17:11:28.096016: There is(are) 50 episod(s) to extract
+2024-10-04 17:11:28.109233: Extracting 50 episod(s) from season 8 in the following https://www.imdb.com/title/tt1528406/episodes/?season=8
+2024-10-04 17:11:42.720955: Extracting episod 1
+2024-10-04 17:11:42.736532: Extracting episod 2
+2024-10-04 17:11:42.736532: Extracting episod 3
+2024-10-04 17:11:42.736532: Extracting episod 4
+2024-10-04 17:11:42.754174: Extracting episod 5
+2024-10-04 17:11:42.754174: Extracting episod 6
+2024-10-04 17:11:42.754174: Extracting episod 7
+2024-10-04 17:11:42.768282: Extracting episod 8
+2024-10-04 17:11:42.768282: Extracting episod 9
+2024-10-04 17:11:42.768282: Extracting episod 10
+2024-10-04 17:11:42.784011: Extracting episod 11
+2024-10-04 17:11:42.786742: Extracting episod 12
+2024-10-04 17:11:42.791760: Extracting episod 13
+2024-10-04 17:11:42.795739: Extracting episod 14
+2024-10-04 17:11:42.799661: Extracting episod 15
+2024-10-04 17:11:42.802725: Extracting episod 16
+2024-10-04 17:11:42.805813: Extracting episod 17
+2024-10-04 17:11:42.809678: Extracting episod 18
+2024-10-04 17:11:42.813519: Extracting episod 19
+2024-10-04 17:11:42.817557: Extracting episod 20
+2024-10-04 17:11:42.819710: Extracting episod 21
+2024-10-04 17:11:42.824737: Extracting episod 22
+2024-10-04 17:11:42.828789: Extracting episod 23
+2024-10-04 17:11:42.833473: Extracting episod 24
+2024-10-04 17:11:42.837576: Extracting episod 25
+2024-10-04 17:11:42.842960: Extracting episod 26
+2024-10-04 17:11:42.884696: Extracting episod 27
+2024-10-04 17:11:42.901621: Extracting episod 28
+2024-10-04 17:11:42.901621: Extracting episod 29
+2024-10-04 17:11:42.901621: Extracting episod 30
+2024-10-04 17:11:42.901621: Extracting episod 31
+2024-10-04 17:11:42.901621: Extracting episod 32
+2024-10-04 17:11:42.917259: Extracting episod 33
+2024-10-04 17:11:42.917259: Extracting episod 34
+2024-10-04 17:11:42.917259: Extracting episod 35
+2024-10-04 17:11:42.917259: Extracting episod 36
+2024-10-04 17:11:42.917259: Extracting episod 37
+2024-10-04 17:11:42.917259: Extracting episod 38
+2024-10-04 17:11:42.932962: Extracting episod 39
+2024-10-04 17:11:42.932962: Extracting episod 40
+2024-10-04 17:11:42.932962: Extracting episod 41
+2024-10-04 17:11:42.932962: Extracting episod 42
+2024-10-04 17:11:42.932962: Extracting episod 43
+2024-10-04 17:11:42.932962: Extracting episod 44
+2024-10-04 17:11:42.948610: Extracting episod 45
+2024-10-04 17:11:42.954621: Extracting episod 46
+2024-10-04 17:11:42.954621: Extracting episod 47
+2024-10-04 17:11:42.954621: Extracting episod 48
+2024-10-04 17:11:42.964638: Extracting episod 49
+2024-10-04 17:11:42.964638: Extracting episod 50
+2024-10-04 17:11:42.964638: Extracted 50 episod successfuly
+2024-10-04 17:11:42.980383: Sending 50 rows to MySQL table 'FairyTail'.
+2024-10-04 17:11:42.996020: Successfully sent 50 rows to MySQL table 'FairyTail'.
+2024-10-04 17:11:43.004660: There is(are) 325 episod(s) already in FairyTail table
+2024-10-04 17:11:43.011673: There is(are) 0 episod(s) to extract

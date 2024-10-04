@@ -1,0 +1,77 @@
+Episod,Season,Episod_season,Title,Day,Month,Year,Rate,link
+1,1,1,Hajime no ippo,3,10,2000,8.1,https://www.imdb.com/title/tt1484155
+2,1,2,Doryoku no seika,10,10,2000,7.8,https://www.imdb.com//title/tt1484154
+3,1,3,Ureshi namida,17,10,2000,8.3,https://www.imdb.com//title/tt1484157
+4,1,4,Shado bokushingu,24,10,2000,7.6,https://www.imdb.com//title/tt1484156
+5,1,5,Three months for the counter,31,10,2000,7.8,https://www.imdb.com//title/tt1790187
+6,1,6,Saisen no gongu,7,11,2000,8.6,https://www.imdb.com//title/tt1790189
+7,1,7,1 cm no hakairyoku,14,11,2000,8.8,https://www.imdb.com//title/tt1790188
+8,1,8,Promise to Meet Again,21,11,2000,7.9,https://www.imdb.com//title/tt4905470
+9,1,9,C Class License,28,11,2000,7.7,https://www.imdb.com//title/tt4905476
+10,1,10,Debut Match!,5,12,2000,7.6,https://www.imdb.com//title/tt4905478
+11,1,11,Obsession for Victory,12,12,2000,8.2,https://www.imdb.com//title/tt4934814
+12,1,12,Becoming a Bully's Buddy,19,12,2000,7.9,https://www.imdb.com//title/tt4934820
+13,1,13,The Eastern Japan Rookie Championship Tournament Begins,26,12,2000,7.6,https://www.imdb.com//title/tt4934926
+14,1,14,Powerful Arms! Hooks vs. Uppercut!,9,1,2001,7.9,https://www.imdb.com//title/tt4934928
+15,1,15,Test of Endurance,16,1,2001,8.5,https://www.imdb.com//title/tt4934930
+16,1,16,Anticipating a Fierce Fight,23,1,2001,7.1,https://www.imdb.com//title/tt4935352
+17,1,17,Ippo on the Beach,30,1,2001,7.4,https://www.imdb.com//title/tt4935356
+18,1,18,Clinch,6,2,2001,7.4,https://www.imdb.com//title/tt4935358
+19,1,19,Dream of a KO,13,2,2001,8.2,https://www.imdb.com//title/tt4935360
+20,1,20,Shotgun's Menace,20,2,2001,8.0,https://www.imdb.com//title/tt3839766
+21,1,21,The Way to Capture a Prodigy,27,2,2001,7.9,https://www.imdb.com//title/tt4937334
+22,1,22,Forward! Forward!!,6,3,2001,8.3,https://www.imdb.com//title/tt4937336
+23,1,23,The Other Semi-Final,13,3,2001,8.3,https://www.imdb.com//title/tt4937338
+24,1,24,To the Promised Place...,20,3,2001,8.9,https://www.imdb.com//title/tt4937340
+25,1,25,Grudges Sorrows & Dreams,27,3,2001,7.6,https://www.imdb.com//title/tt4937342
+26,1,26,The Battle for Distance,3,4,2001,8.0,https://www.imdb.com//title/tt4937346
+27,1,27,Death Match,10,4,2001,8.7,https://www.imdb.com//title/tt4937348
+28,1,28,Victory or Defeat,17,4,2001,8.6,https://www.imdb.com//title/tt4937350
+29,1,29,Rocky of Naniwa,24,4,2001,7.9,https://www.imdb.com//title/tt4937352
+30,1,30,To Enemy Ground,1,5,2001,7.6,https://www.imdb.com//title/tt4937354
+31,1,31,Traces of Intense Battles,8,5,2001,5.2,https://www.imdb.com//title/tt4937356
+32,1,32,Throw Your Right!,15,5,2001,8.0,https://www.imdb.com//title/tt4937358
+33,1,33,Smash Force,22,5,2001,8.3,https://www.imdb.com//title/tt4937360
+34,1,34,The Rookie King,29,5,2001,8.9,https://www.imdb.com//title/tt4937362
+35,1,35,The Counting Journey,5,6,2001,7.5,https://www.imdb.com//title/tt4937382
+36,1,36,The Champ and I,12,6,2001,7.5,https://www.imdb.com//title/tt4937380
+37,1,37,A Thing to Strive For,19,6,2001,7.6,https://www.imdb.com//title/tt4937394
+38,1,38,Two Rookies of the Year,27,6,2001,7.9,https://www.imdb.com//title/tt4937392
+39,1,39,Challenge in a Foreign Land,4,7,2001,7.5,https://www.imdb.com//title/tt4937400
+40,1,40,A Counter to Surpass All Counters,11,7,2001,8.3,https://www.imdb.com//title/tt4937402
+41,1,41,Barf-michi's Big Fight,18,7,2001,7.8,https://www.imdb.com//title/tt4937414
+42,1,42,Sharing a Dream,25,7,2001,8.6,https://www.imdb.com//title/tt4937418
+43,1,43,The Speed Star,1,8,2001,7.7,https://www.imdb.com//title/tt4937416
+44,1,44,Blind Spot in the Ring,8,8,2001,8.0,https://www.imdb.com//title/tt4937424
+45,1,45,The White Fangs of the Wolf,15,8,2001,8.7,https://www.imdb.com//title/tt4937422
+46,1,46,Be the Gazelle,22,8,2001,8.2,https://www.imdb.com//title/tt4937426
+47,1,47,The Fighting Spirit Within,29,8,2001,7.8,https://www.imdb.com//title/tt4937428
+48,1,48,The Red Wolf,5,9,2001,8.3,https://www.imdb.com//title/tt4937430
+49,1,49,The Courage to Believe,19,9,2001,8.7,https://www.imdb.com//title/tt4937432
+50,1,50,Something to Convey,26,9,2001,9.0,https://www.imdb.com//title/tt4937434
+51,1,51,The Group Date,3,10,2001,8.1,https://www.imdb.com//title/tt4937436
+52,1,52,The Challenger (Recap),10,10,2001,5.5,https://www.imdb.com//title/tt4937442
+53,1,53,So That I Can Be Myself,17,10,2001,7.9,https://www.imdb.com//title/tt4937438
+54,1,54,Fists of the Champ,24,10,2001,7.6,https://www.imdb.com//title/tt4937440
+55,1,55,The Japan Featherweight Title Match,31,10,2001,8.3,https://www.imdb.com//title/tt4937448
+56,1,56,The Power That Stands in the Way,7,11,2001,8.7,https://www.imdb.com//title/tt4937450
+57,1,57,Conclusion,14,11,2001,9.4,https://www.imdb.com//title/tt4937452
+58,1,58,Heartbroken,21,11,2001,8.3,https://www.imdb.com//title/tt4937456
+59,1,59,A Determined Gaze,28,11,2001,8.2,https://www.imdb.com//title/tt4937454
+60,1,60,Rival,5,12,2001,8.7,https://www.imdb.com//title/tt4937458
+61,1,61,Comeback Anxiety,12,12,2001,7.5,https://www.imdb.com//title/tt4937460
+62,1,62,Revival,19,12,2001,8.9,https://www.imdb.com//title/tt4937464
+63,1,63,Youth of Fire,26,12,2001,8.1,https://www.imdb.com//title/tt4937466
+64,1,64,Hot Rod Era,9,1,2002,8.1,https://www.imdb.com//title/tt4937468
+65,1,65,The Summer of the Kamogawa Corps,16,1,2002,7.8,https://www.imdb.com//title/tt4937474
+66,1,66,Mr. Takamura's Tears,23,1,2002,8.1,https://www.imdb.com//title/tt4937472
+67,1,67,The Kamogawa Gym Swings Into Action,30,1,2002,8.0,https://www.imdb.com//title/tt4937476
+68,1,68,Kaichô no kiki,10,6,2002,8.5,https://www.imdb.com//title/tt0795114
+69,1,69,The Trap of the Southpaw,17,6,2002,8.5,https://www.imdb.com//title/tt3204042
+70,1,70,The Young Punk,24,6,2002,8.0,https://www.imdb.com//title/tt3204046
+71,1,71,Time for the Showdown,1,7,2002,9.3,https://www.imdb.com//title/tt3204052
+72,1,72,Lollapalooza,8,7,2002,9.2,https://www.imdb.com//title/tt3204056
+73,1,73,Surpass That Moment,15,7,2002,9.1,https://www.imdb.com//title/tt3204058
+74,1,74,Mixup,22,7,2002,9.4,https://www.imdb.com//title/tt3204062
+75,1,75,A Step Further,29,7,2002,9.7,https://www.imdb.com//title/tt3204064
+76,1,76,Boxer's Fist,5,8,2002,8.8,https://www.imdb.com//title/tt3204070
