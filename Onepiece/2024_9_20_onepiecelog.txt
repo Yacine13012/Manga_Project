@@ -1,9 +1,0 @@
-2024-09-20 11:35:36.846846: Connecting to MySQL Onepiece database
-2024-09-20 11:35:36.868903: Connected to Onepiece database
-2024-09-20 11:35:36.878458: Creating table IMDB into Onepiece if doesn't exist
-2024-09-20 11:35:36.879455: Table IMDB created into Onepiece successfully
-2024-09-20 11:35:36.891567: Extracting number total of episode and number of episod already in IMDB table Onepiece
-2024-09-20 11:35:54.477770: There are 1119 Onepiece episods at this time
-2024-09-20 11:35:54.484856: There is(are) 1119 episod(s) already in IMDB table
-2024-09-20 11:35:54.488600: There is(are) 0 episod(s) to extract
-2024-09-20 11:35:54.488600: Program stopped because there is no data to extract
