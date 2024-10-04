@@ -1,0 +1,264 @@
+2024-10-01 17:25:14.220018: Connecting to MySQL manga database
+2024-10-01 17:25:14.236286: Connected to manga database
+2024-10-01 17:25:14.242936: Creating table Naruto into manga if doesn't exist
+2024-10-01 17:25:14.272720: Table Naruto created into manga successfully
+2024-10-01 17:25:14.308188: Extracting number total of episode and number of episod already in Naruto table
+2024-10-01 17:25:14.336828: There are 220 Naruto episods
+2024-10-01 17:25:14.368198: There is(are) 0 episod(s) already in Naruto table
+2024-10-01 17:25:14.370195: There is(are) 220 episod(s) to extract
+2024-10-01 17:25:14.372918: Extracting 40 episod(s)
+2024-10-01 17:25:14.511783: Extracting episod 1 from https://www.imdb.com/title/tt0841699/?ref_=ttep_ep1
+2024-10-01 17:25:28.205031: Extracting episod 2 from https://www.imdb.com//title/tt0845325
+2024-10-01 17:25:42.480576: Extracting episod 3 from https://www.imdb.com//title/tt0851300
+2024-10-01 17:25:55.554939: Extracting episod 4 from https://www.imdb.com//title/tt0851299
+2024-10-01 17:26:08.352899: Extracting episod 5 from https://www.imdb.com//title/tt0851298
+2024-10-01 17:26:21.264641: Extracting episod 6 from https://www.imdb.com//title/tt0852484
+2024-10-01 17:26:34.520678: Extracting episod 7 from https://www.imdb.com//title/tt0852485
+2024-10-01 17:26:47.460877: Extracting episod 8 from https://www.imdb.com//title/tt0852483
+2024-10-01 17:26:59.954478: Extracting episod 9 from https://www.imdb.com//title/tt0852487
+2024-10-01 17:27:12.858735: Extracting episod 10 from https://www.imdb.com//title/tt1302455
+2024-10-01 17:27:25.561837: Extracting episod 11 from https://www.imdb.com//title/tt0852482
+2024-10-01 17:27:38.677351: Extracting episod 12 from https://www.imdb.com//title/tt0852486
+2024-10-01 17:27:51.510694: Extracting episod 13 from https://www.imdb.com//title/tt0858970
+2024-10-01 17:28:04.824620: Extracting episod 14 from https://www.imdb.com//title/tt0858971
+2024-10-01 17:28:17.769609: Extracting episod 15 from https://www.imdb.com//title/tt0858973
+2024-10-01 17:28:30.350187: Extracting episod 16 from https://www.imdb.com//title/tt0858972
+2024-10-01 17:28:42.653893: Extracting episod 17 from https://www.imdb.com//title/tt0858975
+2024-10-01 17:28:55.769426: Extracting episod 18 from https://www.imdb.com//title/tt0858974
+2024-10-01 17:29:09.102407: Extracting episod 19 from https://www.imdb.com//title/tt0873734
+2024-10-01 17:29:21.936565: Extracting episod 20 from https://www.imdb.com//title/tt0874138
+2024-10-01 17:29:34.753520: Extracting episod 21 from https://www.imdb.com//title/tt0878183
+2024-10-01 17:29:47.528635: Extracting episod 22 from https://www.imdb.com//title/tt0886614
+2024-10-01 17:30:00.867296: Extracting episod 23 from https://www.imdb.com//title/tt0886613
+2024-10-01 17:30:14.428530: Extracting episod 24 from https://www.imdb.com//title/tt0886612
+2024-10-01 17:30:28.349510: Extracting episod 25 from https://www.imdb.com//title/tt0886608
+2024-10-01 17:30:42.433578: Extracting episod 26 from https://www.imdb.com//title/tt0886621
+2024-10-01 17:30:56.590525: Extracting episod 27 from https://www.imdb.com//title/tt0886606
+2024-10-01 17:31:10.366129: Extracting episod 28 from https://www.imdb.com//title/tt0886615
+2024-10-01 17:31:23.795790: Extracting episod 29 from https://www.imdb.com//title/tt0886617
+2024-10-01 17:31:36.976164: Extracting episod 30 from https://www.imdb.com//title/tt0886620
+2024-10-01 17:31:50.782785: Extracting episod 31 from https://www.imdb.com//title/tt0886610
+2024-10-01 17:32:04.295835: Extracting episod 32 from https://www.imdb.com//title/tt0886619
+2024-10-01 17:32:17.175463: Extracting episod 33 from https://www.imdb.com//title/tt0886616
+2024-10-01 17:32:29.880551: Extracting episod 34 from https://www.imdb.com//title/tt0886604
+2024-10-01 17:32:43.201538: Extracting episod 35 from https://www.imdb.com//title/tt0886618
+2024-10-01 17:32:56.919961: Extracting episod 36 from https://www.imdb.com//title/tt0886605
+2024-10-01 17:33:10.241109: Extracting episod 37 from https://www.imdb.com//title/tt0886607
+2024-10-01 17:33:23.095344: Extracting episod 38 from https://www.imdb.com//title/tt0886611
+2024-10-01 17:33:36.123829: Extracting episod 39 from https://www.imdb.com//title/tt0886609
+2024-10-01 17:33:49.743825: Extracting episod 40 from https://www.imdb.com//title/tt0889828
+2024-10-01 17:34:03.378895: Extracting 40 episod successfuly
+2024-10-01 17:34:03.394687: Sending 40 rows to MySQL table 'Naruto'.
+2024-10-01 17:34:03.399325: Successfully sent 40 rows to MySQL table 'Naruto'.
+2024-10-01 17:34:03.410442: There is(are) 40 episod(s) already in Naruto table
+2024-10-01 17:34:03.410442: There is(are) 180 episod(s) to extract
+2024-10-01 17:34:03.410442: Extracting 40 episod(s)
+2024-10-01 17:34:15.861066: Extracting episod 41 from https://www.imdb.com//title/tt0889829
+2024-10-01 17:34:29.213678: Extracting episod 42 from https://www.imdb.com//title/tt0889827
+2024-10-01 17:34:41.995272: Extracting episod 43 from https://www.imdb.com//title/tt0889830
+2024-10-01 17:34:55.193046: Extracting episod 44 from https://www.imdb.com//title/tt0898197
+2024-10-01 17:35:08.722454: Extracting episod 45 from https://www.imdb.com//title/tt0898201
+2024-10-01 17:35:21.641515: Extracting episod 46 from https://www.imdb.com//title/tt0898199
+2024-10-01 17:35:35.022440: Extracting episod 47 from https://www.imdb.com//title/tt0898198
+2024-10-01 17:35:48.295398: Extracting episod 48 from https://www.imdb.com//title/tt0898200
+2024-10-01 17:36:01.413657: Extracting episod 49 from https://www.imdb.com//title/tt0898202
+2024-10-01 17:36:14.722286: Extracting episod 50 from https://www.imdb.com//title/tt0898196
+2024-10-01 17:36:28.708112: Extracting episod 51 from https://www.imdb.com//title/tt0903090
+2024-10-01 17:36:42.106201: Extracting episod 52 from https://www.imdb.com//title/tt0903088
+2024-10-01 17:36:55.205990: Extracting episod 53 from https://www.imdb.com//title/tt0903087
+2024-10-01 17:37:08.123202: Extracting episod 54 from https://www.imdb.com//title/tt0903089
+2024-10-01 17:37:21.260459: Extracting episod 55 from https://www.imdb.com//title/tt1198373
+2024-10-01 17:37:34.141773: Extracting episod 56 from https://www.imdb.com//title/tt1209040
+2024-10-01 17:37:47.561378: Extracting episod 57 from https://www.imdb.com//title/tt1202656
+2024-10-01 17:38:00.553540: Extracting episod 58 from https://www.imdb.com//title/tt1302503
+2024-10-01 17:38:13.607756: Extracting episod 59 from https://www.imdb.com//title/tt1302484
+2024-10-01 17:38:26.479561: Extracting episod 60 from https://www.imdb.com//title/tt1308503
+2024-10-01 17:38:39.872112: Extracting episod 61 from https://www.imdb.com//title/tt1308518
+2024-10-01 17:38:53.133997: Extracting episod 62 from https://www.imdb.com//title/tt1308515
+2024-10-01 17:39:06.226220: Extracting episod 63 from https://www.imdb.com//title/tt1308519
+2024-10-01 17:39:18.883565: Extracting episod 64 from https://www.imdb.com//title/tt1308511
+2024-10-01 17:39:31.772196: Extracting episod 65 from https://www.imdb.com//title/tt1308505
+2024-10-01 17:39:44.881170: Extracting episod 66 from https://www.imdb.com//title/tt1308500
+2024-10-01 17:39:58.002023: Extracting episod 67 from https://www.imdb.com//title/tt1308504
+2024-10-01 17:40:10.714886: Extracting episod 68 from https://www.imdb.com//title/tt1308499
+2024-10-01 17:40:23.602814: Extracting episod 69 from https://www.imdb.com//title/tt1308513
+2024-10-01 17:40:36.485207: Extracting episod 70 from https://www.imdb.com//title/tt1308514
+2024-10-01 17:40:49.386384: Extracting episod 71 from https://www.imdb.com//title/tt1308510
+2024-10-01 17:41:02.274629: Extracting episod 72 from https://www.imdb.com//title/tt1308508
+2024-10-01 17:41:15.060714: Extracting episod 73 from https://www.imdb.com//title/tt1308509
+2024-10-01 17:41:27.711029: Extracting episod 74 from https://www.imdb.com//title/tt1308512
+2024-10-01 17:41:40.578578: Extracting episod 75 from https://www.imdb.com//title/tt1308506
+2024-10-01 17:41:53.848666: Extracting episod 76 from https://www.imdb.com//title/tt1308520
+2024-10-01 17:42:07.064305: Extracting episod 77 from https://www.imdb.com//title/tt1308507
+2024-10-01 17:42:20.750248: Extracting episod 78 from https://www.imdb.com//title/tt1308502
+2024-10-01 17:42:33.462454: Extracting episod 79 from https://www.imdb.com//title/tt1308516
+2024-10-01 17:42:46.217722: Extracting episod 80 from https://www.imdb.com//title/tt1308517
+2024-10-01 17:42:59.351782: Extracting 40 episod successfuly
+2024-10-01 17:42:59.363846: Sending 40 rows to MySQL table 'Naruto'.
+2024-10-01 17:42:59.363846: Successfully sent 40 rows to MySQL table 'Naruto'.
+2024-10-01 17:42:59.363846: There is(are) 80 episod(s) already in Naruto table
+2024-10-01 17:42:59.363846: There is(are) 140 episod(s) to extract
+2024-10-01 17:42:59.378939: Extracting 40 episod(s)
+2024-10-01 17:43:11.646247: Extracting episod 81 from https://www.imdb.com//title/tt1308501
+2024-10-01 17:43:24.418043: Extracting episod 82 from https://www.imdb.com//title/tt1299122
+2024-10-01 17:43:37.070785: Extracting episod 83 from https://www.imdb.com//title/tt1299120
+2024-10-01 17:43:49.945797: Extracting episod 84 from https://www.imdb.com//title/tt1299123
+2024-10-01 17:44:03.200967: Extracting episod 85 from https://www.imdb.com//title/tt1299121
+2024-10-01 17:44:16.745795: Extracting episod 86 from https://www.imdb.com//title/tt1304209
+2024-10-01 17:44:30.436032: Extracting episod 87 from https://www.imdb.com//title/tt1304210
+2024-10-01 17:44:43.177290: Extracting episod 88 from https://www.imdb.com//title/tt1304211
+2024-10-01 17:44:56.256559: Extracting episod 89 from https://www.imdb.com//title/tt1259446
+2024-10-01 17:45:09.022206: Extracting episod 90 from https://www.imdb.com//title/tt1302468
+2024-10-01 17:45:22.199637: Extracting episod 91 from https://www.imdb.com//title/tt1259447
+2024-10-01 17:45:35.103466: Extracting episod 92 from https://www.imdb.com//title/tt1304212
+2024-10-01 17:45:48.312211: Extracting episod 93 from https://www.imdb.com//title/tt1304213
+2024-10-01 17:46:01.482314: Extracting episod 94 from https://www.imdb.com//title/tt1304214
+2024-10-01 17:46:14.148114: Extracting episod 95 from https://www.imdb.com//title/tt1304215
+2024-10-01 17:46:27.129040: Extracting episod 96 from https://www.imdb.com//title/tt1304216
+2024-10-01 17:46:39.876126: Extracting episod 97 from https://www.imdb.com//title/tt1304217
+2024-10-01 17:46:52.696502: Extracting episod 98 from https://www.imdb.com//title/tt1304218
+2024-10-01 17:47:05.579100: Extracting episod 99 from https://www.imdb.com//title/tt1304219
+2024-10-01 17:47:18.963867: Extracting episod 100 from https://www.imdb.com//title/tt1302488
+2024-10-01 17:47:32.222479: Extracting episod 101 from https://www.imdb.com//title/tt1302482
+2024-10-01 17:47:45.438087: Extracting episod 102 from https://www.imdb.com//title/tt1302472
+2024-10-01 17:47:58.364177: Extracting episod 103 from https://www.imdb.com//title/tt1302487
+2024-10-01 17:48:11.202099: Extracting episod 104 from https://www.imdb.com//title/tt1302466
+2024-10-01 17:48:24.162710: Extracting episod 105 from https://www.imdb.com//title/tt1302465
+2024-10-01 17:48:37.348090: Extracting episod 106 from https://www.imdb.com//title/tt1302509
+2024-10-01 17:48:50.597363: Extracting episod 107 from https://www.imdb.com//title/tt1302491
+2024-10-01 17:49:03.406839: Extracting episod 108 from https://www.imdb.com//title/tt1302481
+2024-10-01 17:49:16.202261: Extracting episod 109 from https://www.imdb.com//title/tt1302492
+2024-10-01 17:49:28.893261: Extracting episod 110 from https://www.imdb.com//title/tt1302474
+2024-10-01 17:49:41.403165: Extracting episod 111 from https://www.imdb.com//title/tt1302500
+2024-10-01 17:49:54.552483: Extracting episod 112 from https://www.imdb.com//title/tt1302469
+2024-10-01 17:50:08.239467: Extracting episod 113 from https://www.imdb.com//title/tt1302493
+2024-10-01 17:50:21.154765: Extracting episod 114 from https://www.imdb.com//title/tt1302497
+2024-10-01 17:50:34.578852: Extracting episod 115 from https://www.imdb.com//title/tt1302490
+2024-10-01 17:50:47.266360: Extracting episod 116 from https://www.imdb.com//title/tt1302501
+2024-10-01 17:51:01.119700: Extracting episod 117 from https://www.imdb.com//title/tt1302480
+2024-10-01 17:51:14.404229: Extracting episod 118 from https://www.imdb.com//title/tt1302458
+2024-10-01 17:51:27.697302: Extracting episod 119 from https://www.imdb.com//title/tt1302505
+2024-10-01 17:51:41.498825: Extracting episod 120 from https://www.imdb.com//title/tt1302511
+2024-10-01 17:51:55.663545: Extracting 40 episod successfuly
+2024-10-01 17:51:55.664546: Sending 40 rows to MySQL table 'Naruto'.
+2024-10-01 17:51:55.678054: Successfully sent 40 rows to MySQL table 'Naruto'.
+2024-10-01 17:51:55.678054: There is(are) 120 episod(s) already in Naruto table
+2024-10-01 17:51:55.678054: There is(are) 100 episod(s) to extract
+2024-10-01 17:51:55.678054: Extracting 40 episod(s)
+2024-10-01 17:52:08.273857: Extracting episod 121 from https://www.imdb.com//title/tt1302507
+2024-10-01 17:52:21.310991: Extracting episod 122 from https://www.imdb.com//title/tt1302461
+2024-10-01 17:52:35.633627: Extracting episod 123 from https://www.imdb.com//title/tt1302478
+2024-10-01 17:52:48.853669: Extracting episod 124 from https://www.imdb.com//title/tt1302512
+2024-10-01 17:53:04.994234: Extracting episod 125 from https://www.imdb.com//title/tt1302477
+2024-10-01 17:53:17.807000: Extracting episod 126 from https://www.imdb.com//title/tt1302494
+2024-10-01 17:53:31.738743: Extracting episod 127 from https://www.imdb.com//title/tt1302506
+2024-10-01 17:53:45.088181: Extracting episod 128 from https://www.imdb.com//title/tt1302508
+2024-10-01 17:53:58.611033: Extracting episod 129 from https://www.imdb.com//title/tt1302471
+2024-10-01 17:54:12.121177: Extracting episod 130 from https://www.imdb.com//title/tt1302456
+2024-10-01 17:54:25.105283: Extracting episod 131 from https://www.imdb.com//title/tt1302473
+2024-10-01 17:54:43.404395: Extracting episod 132 from https://www.imdb.com//title/tt1302510
+2024-10-01 17:54:55.789301: Extracting episod 133 from https://www.imdb.com//title/tt1302485
+2024-10-01 17:55:08.904771: Extracting episod 134 from https://www.imdb.com//title/tt1302486
+2024-10-01 17:55:23.125848: Extracting episod 135 from https://www.imdb.com//title/tt1299119
+2024-10-01 17:55:36.250049: Extracting episod 136 from https://www.imdb.com//title/tt1302499
+2024-10-01 17:55:49.245814: Extracting episod 137 from https://www.imdb.com//title/tt1302453
+2024-10-01 17:56:02.335604: Extracting episod 138 from https://www.imdb.com//title/tt1302475
+2024-10-01 17:56:16.143256: Extracting episod 139 from https://www.imdb.com//title/tt1302479
+2024-10-01 17:56:29.816187: Extracting episod 140 from https://www.imdb.com//title/tt1302462
+2024-10-01 17:56:42.841244: Extracting episod 141 from https://www.imdb.com//title/tt1302495
+2024-10-01 17:56:55.114005: Extracting episod 142 from https://www.imdb.com//title/tt1302463
+2024-10-01 17:57:08.381662: Extracting episod 143 from https://www.imdb.com//title/tt1302467
+2024-10-01 17:57:21.544407: Extracting episod 144 from https://www.imdb.com//title/tt1302504
+2024-10-01 17:57:34.359809: Extracting episod 145 from https://www.imdb.com//title/tt1302496
+2024-10-01 17:57:47.539813: Extracting episod 146 from https://www.imdb.com//title/tt1302489
+2024-10-01 17:58:00.490705: Extracting episod 147 from https://www.imdb.com//title/tt1302470
+2024-10-01 17:58:13.616471: Extracting episod 148 from https://www.imdb.com//title/tt1302457
+2024-10-01 17:58:26.892188: Extracting episod 149 from https://www.imdb.com//title/tt1302460
+2024-10-01 17:58:39.685764: Extracting episod 150 from https://www.imdb.com//title/tt1302459
+2024-10-01 17:58:53.341788: Extracting episod 151 from https://www.imdb.com//title/tt1302483
+2024-10-01 17:59:06.891004: Extracting episod 152 from https://www.imdb.com//title/tt1302498
+2024-10-01 17:59:19.990770: Extracting episod 153 from https://www.imdb.com//title/tt1302476
+2024-10-01 17:59:33.181718: Extracting episod 154 from https://www.imdb.com//title/tt1302454
+2024-10-01 17:59:46.105544: Extracting episod 155 from https://www.imdb.com//title/tt1302502
+2024-10-01 17:59:59.209145: Extracting episod 156 from https://www.imdb.com//title/tt1302464
+2024-10-01 18:00:12.124876: Extracting episod 157 from https://www.imdb.com//title/tt1282123
+2024-10-01 18:00:25.719803: Extracting episod 158 from https://www.imdb.com//title/tt1310192
+2024-10-01 18:00:38.296609: Extracting episod 159 from https://www.imdb.com//title/tt1310206
+2024-10-01 18:00:51.378784: Extracting episod 160 from https://www.imdb.com//title/tt1310182
+2024-10-01 18:01:04.639879: Extracting 40 episod successfuly
+2024-10-01 18:01:04.646524: Sending 40 rows to MySQL table 'Naruto'.
+2024-10-01 18:01:04.653615: Successfully sent 40 rows to MySQL table 'Naruto'.
+2024-10-01 18:01:04.653615: There is(are) 160 episod(s) already in Naruto table
+2024-10-01 18:01:04.653615: There is(are) 60 episod(s) to extract
+2024-10-01 18:01:04.653615: Extracting 40 episod(s)
+2024-10-01 18:01:18.444288: Extracting episod 161 from https://www.imdb.com//title/tt1310200
+2024-10-01 18:01:31.615062: Extracting episod 162 from https://www.imdb.com//title/tt1310203
+2024-10-01 18:01:44.132206: Extracting episod 163 from https://www.imdb.com//title/tt1310199
+2024-10-01 18:01:56.893499: Extracting episod 164 from https://www.imdb.com//title/tt1310197
+2024-10-01 18:02:09.647085: Extracting episod 165 from https://www.imdb.com//title/tt1310194
+2024-10-01 18:02:22.679573: Extracting episod 166 from https://www.imdb.com//title/tt1310207
+2024-10-01 18:02:36.004089: Extracting episod 167 from https://www.imdb.com//title/tt1310202
+2024-10-01 18:02:49.055296: Extracting episod 168 from https://www.imdb.com//title/tt1310193
+2024-10-01 18:03:01.921996: Extracting episod 169 from https://www.imdb.com//title/tt1310189
+2024-10-01 18:03:15.995577: Extracting episod 170 from https://www.imdb.com//title/tt1310205
+2024-10-01 18:03:28.892116: Extracting episod 171 from https://www.imdb.com//title/tt1310201
+2024-10-01 18:03:42.060023: Extracting episod 172 from https://www.imdb.com//title/tt1310209
+2024-10-01 18:03:54.908600: Extracting episod 173 from https://www.imdb.com//title/tt1310188
+2024-10-01 18:04:08.050819: Extracting episod 174 from https://www.imdb.com//title/tt1310180
+2024-10-01 18:04:21.590512: Extracting episod 175 from https://www.imdb.com//title/tt1310190
+2024-10-01 18:04:34.640813: Extracting episod 176 from https://www.imdb.com//title/tt1310204
+2024-10-01 18:04:48.683713: Extracting episod 177 from https://www.imdb.com//title/tt1310196
+2024-10-01 18:05:01.682573: Extracting episod 178 from https://www.imdb.com//title/tt1310181
+2024-10-01 18:05:14.373130: Extracting episod 179 from https://www.imdb.com//title/tt1310195
+2024-10-01 18:05:27.376280: Extracting episod 180 from https://www.imdb.com//title/tt1310183
+2024-10-01 18:05:40.535178: Extracting episod 181 from https://www.imdb.com//title/tt1310185
+2024-10-01 18:05:53.035979: Extracting episod 182 from https://www.imdb.com//title/tt1310198
+2024-10-01 18:06:05.843610: Extracting episod 183 from https://www.imdb.com//title/tt1310184
+2024-10-01 18:06:18.311032: Extracting episod 184 from https://www.imdb.com//title/tt1310186
+2024-10-01 18:06:31.645142: Extracting episod 185 from https://www.imdb.com//title/tt1310191
+2024-10-01 18:06:44.499174: Extracting episod 186 from https://www.imdb.com//title/tt1310208
+2024-10-01 18:06:57.320769: Extracting episod 187 from https://www.imdb.com//title/tt1310187
+2024-10-01 18:07:10.083666: Extracting episod 188 from https://www.imdb.com//title/tt1217863
+2024-10-01 18:07:23.408784: Extracting episod 189 from https://www.imdb.com//title/tt1217860
+2024-10-01 18:07:37.434488: Extracting episod 190 from https://www.imdb.com//title/tt1217859
+2024-10-01 18:07:50.421842: Extracting episod 191 from https://www.imdb.com//title/tt1217867
+2024-10-01 18:08:03.646372: Extracting episod 192 from https://www.imdb.com//title/tt1217864
+2024-10-01 18:08:18.496244: Extracting episod 193 from https://www.imdb.com//title/tt1217858
+2024-10-01 18:08:32.021655: Extracting episod 194 from https://www.imdb.com//title/tt1217865
+2024-10-01 18:08:45.500571: Extracting episod 195 from https://www.imdb.com//title/tt1217862
+2024-10-01 18:08:58.423430: Extracting episod 196 from https://www.imdb.com//title/tt1217866
+2024-10-01 18:09:11.930255: Extracting episod 197 from https://www.imdb.com//title/tt1217861
+2024-10-01 18:09:24.412127: Extracting episod 198 from https://www.imdb.com//title/tt1217857
+2024-10-01 18:09:37.597791: Extracting episod 199 from https://www.imdb.com//title/tt1202557
+2024-10-01 18:09:50.668179: Extracting episod 200 from https://www.imdb.com//title/tt0943075
+2024-10-01 18:10:04.280560: Extracting 40 episod successfuly
+2024-10-01 18:10:04.280560: Sending 40 rows to MySQL table 'Naruto'.
+2024-10-01 18:10:04.296654: Successfully sent 40 rows to MySQL table 'Naruto'.
+2024-10-01 18:10:04.296654: There is(are) 200 episod(s) already in Naruto table
+2024-10-01 18:10:04.312410: There is(are) 20 episod(s) to extract
+2024-10-01 18:10:04.312410: Extracting 20 episod(s)
+2024-10-01 18:10:16.585656: Extracting episod 201 from https://www.imdb.com//title/tt0943082
+2024-10-01 18:10:30.078104: Extracting episod 202 from https://www.imdb.com//title/tt0943080
+2024-10-01 18:10:43.996889: Extracting episod 203 from https://www.imdb.com//title/tt0943078
+2024-10-01 18:10:57.010461: Extracting episod 204 from https://www.imdb.com//title/tt0943079
+2024-10-01 18:11:15.233436: Extracting episod 205 from https://www.imdb.com//title/tt0943077
+2024-10-01 18:11:28.007058: Extracting episod 206 from https://www.imdb.com//title/tt0943076
+2024-10-01 18:11:41.230420: Extracting episod 207 from https://www.imdb.com//title/tt0943074
+2024-10-01 18:11:53.969999: Extracting episod 208 from https://www.imdb.com//title/tt1209039
+2024-10-01 18:12:08.067005: Extracting episod 209 from https://www.imdb.com//title/tt1193920
+2024-10-01 18:12:21.296543: Extracting episod 210 from https://www.imdb.com//title/tt1193919
+2024-10-01 18:12:34.401409: Extracting episod 211 from https://www.imdb.com//title/tt1304201
+2024-10-01 18:12:47.470554: Extracting episod 212 from https://www.imdb.com//title/tt1304202
+2024-10-01 18:13:00.699766: Extracting episod 213 from https://www.imdb.com//title/tt1304203
+2024-10-01 18:13:14.024115: Extracting episod 214 from https://www.imdb.com//title/tt1304204
+2024-10-01 18:13:27.180484: Extracting episod 215 from https://www.imdb.com//title/tt1304205
+2024-10-01 18:13:40.240528: Extracting episod 216 from https://www.imdb.com//title/tt1304206
+2024-10-01 18:13:55.187237: Extracting episod 217 from https://www.imdb.com//title/tt1304207
+2024-10-01 18:14:09.619142: Extracting episod 218 from https://www.imdb.com//title/tt1304208
+2024-10-01 18:14:22.488078: Extracting episod 219 from https://www.imdb.com//title/tt0943083
+2024-10-01 18:14:36.107688: Extracting episod 220 from https://www.imdb.com//title/tt0943081
+2024-10-01 18:14:49.795851: Extracting 20 episod successfuly
+2024-10-01 18:14:49.799407: Sending 20 rows to MySQL table 'Naruto'.
+2024-10-01 18:14:49.811794: Successfully sent 20 rows to MySQL table 'Naruto'.
+2024-10-01 18:14:49.811794: There is(are) 220 episod(s) already in Naruto table
+2024-10-01 18:14:49.811794: There is(are) 0 episod(s) to extract
