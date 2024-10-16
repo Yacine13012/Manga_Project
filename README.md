@@ -1,7 +1,7 @@
 # Manga_Project
 
 ## DemonSlayer
-Webscraping of One Piece data from IMDB, transform and load to MySQL.
+Webscraping of Demon Slayer data from IMDB, transform and load to MySQL.
     - DemonSlayer.csv: CSV file created from data extracted
     - DemonSlayer.ipynb: Main Notebook
     - DemonSlayer.jpg: Demon Slayer image
