@@ -64,17 +64,17 @@ def extract_date(date):
             year = int(date_list[2])
             return day,month,year
         
-def extract_episod(ep):
-    """Extract episod from the beautiful soup..
+def extract_episode(ep):
+    """Extract episode from the beautiful soup..
 
     Args:
-        ep (str): String including the episod extracted from beautiful soup.
+        ep (str): String including the episode extracted from beautiful soup.
     """
     ep_list=[]
     ep_list = ep.split(".E")
     season = int(ep_list[0][-1])
-    episod_season = int(ep_list[1])
-    return season,episod_season
+    episode_season = int(ep_list[1])
+    return season,episode_season
 
 def extract_link(link):
     """Extract link from the beautiful soup..

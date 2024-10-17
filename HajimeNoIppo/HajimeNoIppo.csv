@@ -1,4 +1,4 @@
-Episod,Season,Episod_season,Title,Day,Month,Year,Rate,link
+Episode,Season,SeasonsEpisode,Title,Day,Month,Year,Rating,link
 1,1,1,Hajime no ippo,3,10,2000,8.1,https://www.imdb.com/title/tt1484155
 2,1,2,Doryoku no seika,10,10,2000,7.8,https://www.imdb.com//title/tt1484154
 3,1,3,Ureshi namida,17,10,2000,8.3,https://www.imdb.com//title/tt1484157
